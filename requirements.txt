@@ -1,0 +1,11 @@
+torch
+torch-geometric
+pandas
+numpy
+matplotlib
+networkx
+scikit-learn
+optuna
+ripe.atlas.cousteau
+requests
+neo4j
